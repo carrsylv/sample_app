@@ -12,4 +12,9 @@ class PagesController < ApplicationController
     @titre ="A Propos"
   end
 
+  def help
+    @titre = "Aide"
+
+  end
+
 end
