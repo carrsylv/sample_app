@@ -44,3 +44,4 @@ group :development, :test do
 end
 
 gem "annotate"
+gem 'gravatar_image_tag', '1.0.0.pre2'
